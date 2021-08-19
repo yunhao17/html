@@ -13,3 +13,11 @@
   /* 指定方法(box2の周囲全てに枠線を指定する場合) */
   border: 5px solid yellow;
 }
+
+.box3 {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  /* 指定方法(box2の周囲全てに枠線を指定する場合) */
+  border: 5px solid black;
+}
